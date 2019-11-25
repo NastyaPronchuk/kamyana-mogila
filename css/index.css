@@ -289,3 +289,11 @@ button.submit:active {
 #go-top:hover {
   background: #333;
 }
+
+#more {display: none;}
+
+footer #contacts {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    background-image:url(../img/kam-back.png);
