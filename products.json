@@ -1,23 +1,49 @@
 [
     {
         "id": "1",
-        "title": "Puma RS-0 Tracks Man;s",
-        "image": "puma.jpg",
-        "description": "Welcome to the RS revolution. The innovative running tech makes a comeback from the '80s for today's chunky runner trend. Explore classic silhouettes like the RS-0 and RS-1 or step into the future with all-new versions of the RS-X and RS 9.8. Whatever your style, find an RS for every occasion. For everyday use.",
-        "price": 120.00
+        "title": "Кьопен Петро Іванович",
+        "image": "keppen.jpg",
+        "description": "(19.2(2.3).1793, Харків - 23.5(4.6).1864, Крим, маєток Карабаг, біля Алушти) - російський вчений, статистик, етнограф, бібліограф, академік Петербурзької АН (1843). У 1837 р. побував на Кам'яній Могилі і написав про неї кілька статей. Незважаючи на стислість інформації П. І. Кьопена, вчений світ сприйняв ці повідомлення як факт існування печер в Північному Приазов'ї.",
+        
     },
     {
         "id": "2",
-        "title": "Vans Old Skool Canvas Man's",
-        "image": "vans.jpg",
-        "description": "The Old Skool, the Vans classic skate shoe and first to bare the iconic sidestripe, is a low top lace-up featuring sturdy canvas and suede uppers, re-enforced toecaps to withstand repeated wear, padded collars for support and flexibility, and signature rubber waffle outsoles in Shade Grey Prune. Perfect choise for you, be sure.",
-        "price": 300.00
+        "title": "Веселовський Миколай Іванович",
+        "image": "veselovskiy.jpg",
+        "description": "(листопад 1844, Москва, - 30.3.1918, Петроград) - російський археолог, сходознавець. В кінці XIX століття М.І. Веселовський побував на Кам'яній Могилі, частково досліджував давні зображення в її гротах і печерах. Йому належить відкриття гроту «Бика». Звіт Археологічної Комісії: «Розкопки Таврійської губернії» // ОАК за 1890 р. - Спб, 1893. - с. 3-4.",
+        
     },
     {
         "id": "3",
-        "title": "Puma Thunder Spectra Man's",
-        "image": "pna.jpg",
-        "description": "Inspired by '90s Cell System running silhouettes and the PUMA x McQueen collaboration, the style is a reimagined pair of kicks with a bulky, unapologetic look and feel. The exaggerated retro tooling, the blown-up proportions and the loud color blocking reserve a spot for the Thunder on the international runways.",
-        "price": 150.00
+        "title": "Бадер Отто Миколайович",
+        "image": "bader.jpg",
+        "description": "(1903, с. Олександрівське - 1979 р.) - видатний російський археолог, творець пермської школи археологів. Керував Азово-Чорноморською експедицією Інституту історії матеріальної культури АН УРСР (1938 р.), яка досліджувала пам'ятник первісної культури - Кам'яну Могилу. Вчені відкрили гроти і печери з унікальними зображеннями"
+        
+    },
+    {
+        "id": "4",
+        "title": "Даниленко Валентин Миколайович",
+        "image": "danilenko.jpg",
+        "description": "(1913 р., с. Ново-Михайлівка Мелітопольського району Запорізької області - 1982, Київ) - український археолог, доктор історичних наук. Займаючись дослідженням Кам'яної Могили в 1934-1935 рр., він відкрив близько десяти місцезнаходжень прадавніх малюнків.",
+        
+    },
+    {
+        "id": "5",
+        "title": "Рудинський Михайло Яковлевич",
+        "image": "rudinskiy.jpg",
+        "description": "(1887 р. Охтирка Харківської губернії (нині Сумської області) - 1958) - український археолог, доктор історичних наук. У 1951-1957 рр. вів вивчення пам'ятки, що дозволило по-новому поглянути на культурно-історичні комплекси малюнків Кам'яної Могили. Так, хронологічний діапазон малюнків був визначений епохою неоліту-бронзи (VI - початок I тис. до н. е.)",
+        
+    },
+    {
+        "id": "6",
+        "title": "Гладилін Владислав Миколайович",
+        "image": "gladilin.jpg",
+        "description":"Історик, археолог. У 1961-1963 рр. разом з Б. Д. Михайловим вів роботу з вивчення Кам'яної Могили, в результаті чого були відкриті нові гроти. Знову був вивчений грот Бика, де на глибині двох метрів на стелі нижньої плити були знайдені малюнки биків, людей, лінійно-геометричні креслення  та ін.",
+    },
+    {
+        "id": "7",
+        "title": "Михайлов Борис Дмитрович",
+        "image": "mihailov.jpg",
+        "description": "Засновник і перший директор Національного історико-археологічного заповідника «Кам'яна Могила» (1936-2008 рр.).Історик-археолог. Заслужений працівник культури України.Був учнем відомого вченого В. М. Даниленко і разом з ним проводив археологічні розкопки на Кам'яній Могилі."
     }
 ]
