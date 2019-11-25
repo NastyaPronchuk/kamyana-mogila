@@ -7,6 +7,8 @@
     <title>Кам'яна могила</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
+    
+ 
 </head>
 <body>
     <header>
@@ -26,6 +28,7 @@
         </div>
     </header>
     <main>
+        <div id="arrowup"></div>
         <div class="about-text-one">
             <h1 id="about">Курган Кам'яна могила</h1>
             <h2>Кам’яна Могила — визначна пам’ятка древньої культури в Україні поблизу Мелітополя (село Терпіння) у Запорізькій області над річкою Молочною, державний історико-археологічний музей-заповідник.</h2>
@@ -170,6 +173,22 @@
     <script async src="js/alert-window.js"></script>
     <script defer src="js/cart.js"></script>
     <script defer src="js/product-list.js"></script>
-    <script defer src="js/index.js"></script>              
+    <script defer src="js/index.js"></script>      
+
+    <script type="text/javascript">$(document).ready(function() {
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 0) {
+            $('#arrowup').fadeIn(300); //скорость исчезновения кнопки
+        } else {
+    $('#arrowup').fadeOut(200); //скорость появления кнопки
+        }
+    });
+    $('#arrowup').click(function() {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 200); //скорость прокрутки
+        return false;
+    });});
+</script>     
 </body>
 </html>

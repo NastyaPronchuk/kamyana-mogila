@@ -106,10 +106,18 @@ function myFunctionSeven() {
     moreSevenText.style.display = "inline";
   }
 }
-
-
-
-
-
-
+$(document).ready(function() {
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 0) {
+            $('#arrowup').fadeIn(300); //скорость исчезновения кнопки
+        } else {
+    $('#arrowup').fadeOut(200); //скорость появления кнопки
+        }
+    });
+    $('#arrowup').click(function() {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 200); //скорость прокрутки
+        return false;
+    });});
 
